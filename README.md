@@ -23,6 +23,8 @@ i add map and order by rating
 
 In the project directory, you can run:
 
+CD FrontendDevReactjs-Rafi_Ihsan
+NPM 
 ### `npm start`
 
 Runs the app in the development mode.\
