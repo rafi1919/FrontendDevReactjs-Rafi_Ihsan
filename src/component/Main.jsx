@@ -82,30 +82,35 @@ class Main extends Component {
         <Hero />
         <h1>Restaurant List</h1>
 
-        <div class="btn-group" role="group"  style={{color:'black'}}>
-        <Form.Check
-          type="checkbox"
-          label="Order by Price"
-          checked={orderByPrice}
-          onChange={this.toggleOrderByPrice}
-          style={{ padding: '20px', marginLeft:'20px', textAlign: 'left', fontSize:'1,3rem' }} />
-        <Form.Check
-          type="checkbox"
-          label="Order by Rating"
-          checked={orderByRating}
-          onChange={this.toggleOrderByRating}
-          style={{ padding: '20px', textAlign: 'left', fontSize:'1,3rem' }}
-        />
-        <Form.Check
-          type="checkbox"
-          label="Order by Open"
-      
-          onChange={this.toggleOrderOpen}
-          style={{ padding: '20px', textAlign: 'left', fontSize:'1,3rem' }}
-          
-        />
-
-        </div>
+        
+        <div className="btn-group" role="group" style={{ color: 'black' }}>
+            <Form.Check
+              type="checkbox"
+              label="Order by Price"
+              checked={orderByPrice}
+              onChange={this.toggleOrderByPrice}
+              style={{ padding: '10px', marginLeft: '10px', textAlign: 'left', fontSize: '1rem' }}
+            />
+            <Form.Check
+              type="checkbox"
+              label="Order by Rating"
+              checked={orderByRating}
+              onChange={this.toggleOrderByRating}
+              style={{ padding: '10px', textAlign: 'left', fontSize: '1rem' }}
+            />
+            <Form.Check
+              type="checkbox"
+              label="Order by Open"
+              onChange={this.toggleOrderOpen}
+              style={{ padding: '10px', textAlign: 'left', fontSize: '1rem' }}
+            />
+            <select className="form-select" aria-label="Default select example" style={{ width: '100px', fontSize: '1rem' }}>
+              <option defaultValue>Categories</option>
+              <option value="1">Beef</option>
+              <option value="2">Steak</option>
+              <option value="3">Chicken</option>
+            </select>
+          </div>
 
         <Container>
           <Row>
