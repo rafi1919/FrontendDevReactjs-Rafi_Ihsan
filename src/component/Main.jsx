@@ -104,7 +104,7 @@ class Main extends Component {
               onChange={this.toggleOrderOpen}
               style={{ padding: '10px', textAlign: 'left', fontSize: '1rem' }}
             />
-            <select className="form-select" aria-label="Default select example" style={{ width: '100px', fontSize: '1rem' }}>
+            <select className="form-select" aria-label="Default select example" style={{ width: '150px', fontSize: '1rem' }}>
               <option defaultValue>Categories</option>
               <option value="1">Beef</option>
               <option value="2">Steak</option>
