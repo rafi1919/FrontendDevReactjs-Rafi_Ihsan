@@ -22,28 +22,17 @@ i add map and order by rating
 <br/>
 ## Available Scripts
 
-In the project directory, you can run:
 
-### `CD FrontendDevReactjs-Rafi_Ihsan`
-### `npm start`
+<h2>In the project directory, you can run:</h2>
+<h6>CD FrontendDevReactjs-Rafi_Ihsan</h6>
+<h6>npm i</h6>
+<h6>npm start</h6>
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm i`
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `preview`
 [preview video](https://drive.google.com/file/d/1rGA0fsf8Ev9Oos3j9WxatZk79R4qJSK0/view?usp=sharing)
