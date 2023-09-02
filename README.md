@@ -8,6 +8,10 @@ React ver : v18.2.0
 <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##note
+there are some fiture that i can't make so insted i improvise with other fiture such as order by open and category
+<br/>
+i add map and order by rating
 ## Available Scripts
 
 In the project directory, you can run:
