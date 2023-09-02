@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 website link https://frontend-dev-reactjs-rafi-ihsan.vercel.app/
+<br/>
 i use vercel cuz the netlify didn't work so i had to use another site
 
 Node ver : v16.15.1
@@ -14,6 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <h6>axios</h6>
 <h6>FontAwsome</h6>
 ##note
+<br/>
 there are some fiture that i can't make so insted i improvise with other fiture such as order by open and category
 <br/>
 i add map and order by rating
