@@ -19,7 +19,7 @@ React ver : v18.2.0
 there are some fiture that i can't make such as order by open and category 
 <br/>
 so insted i improvise with other fiture like dd map and order by rating
-<<br/>
+<br/>
 ## Available Scripts
 
 
