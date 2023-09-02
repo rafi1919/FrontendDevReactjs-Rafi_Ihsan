@@ -16,10 +16,10 @@ React ver : v18.2.0
 <h6>FontAwsome</h6>
 ##note
 <br/>
-there are some fiture that i can't make so insted i improvise with other fiture such as order by open and category
+there are some fiture that i can't make such as order by open and category 
 <br/>
-i add map and order by rating
-<br/>
+so insted i improvise with other fiture like dd map and order by rating
+<<br/>
 ## Available Scripts
 
 
