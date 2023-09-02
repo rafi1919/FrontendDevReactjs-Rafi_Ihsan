@@ -9,7 +9,7 @@ Node ver : v16.15.1
 React ver : v18.2.0
 <br/>
 
-<h2>use with</h2>
+<h2>build with</h2>
 <h6>React</h6>
 <h6>Bootstrap</h6>
 <h6>axios</h6>
