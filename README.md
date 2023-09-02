@@ -45,10 +45,12 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `preview`
-[epub](https://drive.google.com/file/d/1rGA0fsf8Ev9Oos3j9WxatZk79R4qJSK0/view?usp=sharing)
+[preview video](https://drive.google.com/file/d/1rGA0fsf8Ev9Oos3j9WxatZk79R4qJSK0/view?usp=sharing)
+<br/>
 ![main](https://github.com/rafi1919/FrontendDevReactjs-Rafi_Ihsan/blob/main/public/preview/mainpage.png)
+<br/>
 ![list](https://github.com/rafi1919/FrontendDevReactjs-Rafi_Ihsan/blob/main/public/preview/listpage.png)
-
+<br/>
 ![detail](https://github.com/rafi1919/FrontendDevReactjs-Rafi_Ihsan/blob/main/public/preview/detailpage.png)
 
 
