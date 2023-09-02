@@ -1,13 +1,18 @@
 # Getting Started with Create React App
 
 website link https://frontend-dev-reactjs-rafi-ihsan.vercel.app/
+i use vercel cuz the netlify didn't work so i had to use another site
 
 Node ver : v16.15.1
 <br/>
 React ver : v18.2.0
 <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<h2>use with</h2>
+<h6>React</h6>
+<h6>Bootstrap</h6>
+<h6>axios</h6>
+<h6>FontAwsome</h6>
 ##note
 there are some fiture that i can't make so insted i improvise with other fiture such as order by open and category
 <br/>
@@ -39,6 +44,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-![login](https://github.com/rafi1919/FrontendDevReactjs-Rafi_Ihsan/blob/main/public/preview/mainpage.png)
+![main](https://github.com/rafi1919/FrontendDevReactjs-Rafi_Ihsan/blob/main/public/preview/mainpage.png)
+![list](https://github.com/rafi1919/FrontendDevReactjs-Rafi_Ihsan/blob/main/public/preview/listpage.png)
+
+![detail](https://github.com/rafi1919/FrontendDevReactjs-Rafi_Ihsan/blob/main/public/preview/detailpage.png)
+
 
 
